@@ -80,6 +80,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="Images\10_of_diamonds.png" />
     <Resource Include="Images\10_of_hearts.png" />
     <Resource Include="Images\10_of_spades.png" />
